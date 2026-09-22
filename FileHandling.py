@@ -24,6 +24,11 @@ with open("filecontent1.txt","r") as fileopen1:
 #git remote -v
 # git pull origin main
 
+# Cmnds to puush the changes from vs code to git 
+#1. git add . or git add filename
+#2. git commit -m "commit message"
+#3. git push origin main
+
 
 
 
