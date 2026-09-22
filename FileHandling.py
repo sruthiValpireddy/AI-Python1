@@ -12,6 +12,18 @@ with open("filecontent1.txt","r") as fileopen1:
 # Adding this line from remote
 
 
+#git status
+# git init
+# git add filename
+# git commit -m "first commit"
+# git log
+# git remote add origin "https://github.com/sruthiValpireddy/AI-Python1.git"
+#git remote -v
+#git branch -M main
+ # git clone "https://github.com/sruthiValpireddy/AI-Python1.git" to get the content from remote(git)
+#git remote -v
+# git pull origin main
+
 
 
 
